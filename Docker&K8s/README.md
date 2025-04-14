@@ -19,6 +19,9 @@ This repository contains a mini-project demonstrating containerization using **D
 ![K8s UI]
 
 ---
+## Container created 
+![Capture](https://github.com/user-attachments/assets/c3052f0c-a3a2-4b3f-b1b8-a4232388d397)
+
 
 ## 📦 Project Overview
 
