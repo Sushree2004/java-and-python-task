@@ -46,13 +46,13 @@ Docker&Kubernetes/
 ### 2. Build Docker Image
 
 ```bash
-docker build -t your-image-name .
+docker build -t image-docket.
 ```
 
 ### 3. Run Locally (Optional)
 
 ```bash
-docker run -p 8080:8080 your-image-name
+docker run -p 8080:8080 image-docker
 ```
 
 ### 4. Deploy to Kubernetes
